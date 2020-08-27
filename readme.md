@@ -47,3 +47,7 @@ conceptually elegant Bayesian method that is capable of learning debiased embedd
 
 - [Google Research Label Bias](https://github.com/google-research/google-research/tree/master/label_bias)
 - [Face Recognition: Too Bias, or Not Too Bias?](https://github.com/visionjo/facerec-bias-bfw)
+
+### Acknowledgments
+This project is generously supported by [Trueface.ai](https://trueface.ai/?ref=github-bias-mitigation). 
+
